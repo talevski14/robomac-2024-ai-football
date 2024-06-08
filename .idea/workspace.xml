@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="36c8c611-3e9f-44e3-ab5b-6678aebd0262" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2fSkXEX6c8WU09nKbI9jRICEUl1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36c8c611-3e9f-44e3-ab5b-6678aebd0262" name="Changes" comment="" />
+      <created>1713801904798</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713801904798</updated>
+      <workItem from="1713801914027" duration="17000" />
+      <workItem from="1713801942077" duration="5799000" />
+      <workItem from="1713856500180" duration="5701000" />
+      <workItem from="1713874702661" duration="18041000" />
+      <workItem from="1713966677606" duration="153000" />
+      <workItem from="1713971131709" duration="11143000" />
+      <workItem from="1714029082609" duration="6215000" />
+      <workItem from="1714046235505" duration="16830000" />
+      <workItem from="1714080397422" duration="7899000" />
+      <workItem from="1714116210159" duration="8484000" />
+      <workItem from="1714134088319" duration="12367000" />
+      <workItem from="1714147412484" duration="4050000" />
+      <workItem from="1714169448809" duration="4317000" />
+      <workItem from="1714211997795" duration="5832000" />
+      <workItem from="1714225786234" duration="287000" />
+      <workItem from="1717852776141" duration="294000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Robomac_ai_football$AIFootball.coverage" NAME="AIFootball Coverage Results" MODIFIED="1714225918054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI Football/src" />
+    <SUITE FILE_PATH="coverage/Robomac_ai_football$Manager.coverage" NAME="Manager Coverage Results" MODIFIED="1714221470746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI Football/src/Test_team" />
+  </component>
+</project>

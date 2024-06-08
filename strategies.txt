@@ -1,0 +1,29 @@
+Keeper
+----------
+-> Always stay in your side of the field. /
+-> Follow the ball on the y-axis and by angle. /
+-> When the ball is approaching in radius of I quadrant, run towards the ball. /
+
+Shooter
+----------
+-> Run towards the ball. /
+-> If the ball is in your side, don't shoot it. /
+-> If the ball is in your opponent's side, check for opponents in front of you. /
+//If opponents, pass it to the helper?
+If no opponents, try to go towards the 4th quarter of the field with ball. /
+If no opponents, and in 4th quarter of the field, shoot towards the goal. /
+
+
+Helper
+----------
+-> When ball is in center, run towards the ball /
+-> When ball is acquired, always shoot towards the goal. /
+-> When the ball is in their half push the furthest away player /
+Else go to center
+-> When the ball is in our half push the slimmest opponent in our half if exist
+Else go to center
+
+
+Reduce goalkeeper radius and stop from going into corners
+Program helper
+

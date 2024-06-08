@@ -1,0 +1,31 @@
+our_team
+[
+{'x': 358, 'y': 343, 'alpha': 0, 'mass': 84, 'radius': 23, 'a_max': 1320, 'v_max': 630, 'shot_power_max': 16000},
+{'x': 358, 'y': 460, 'alpha': 0, 'mass': 84, 'radius': 21, 'a_max': 1760, 'v_max': 700, 'shot_power_max': 18000}, 
+{'x': 358, 'y': 578, 'alpha': 0, 'mass': 84, 'radius': 21, 'a_max': 726, 'v_max': 609, 'shot_power_max': 2400}
+]
+
+their_team
+[
+{'x': 999, 'y': 343, 'alpha': 3.141592653589793, 'mass': 85, 'radius': 24, 'a_max': 2200, 'v_max': 700, 'shot_power_max': 16000},
+{'x': 999, 'y': 460, 'alpha': 3.141592653589793, 'mass': 80, 'radius': 23, 'a_max': 1320, 'v_max': 490, 'shot_power_max': 14000}, 
+{'x': 999, 'y': 578, 'alpha': 3.141592653589793, 'mass': 80, 'radius': 24, 'a_max': 1540, 'v_max': 595, 'shot_power_max': 11000}
+]
+
+ball 
+{'x': 683, 'y': 460, 'alpha': 0, 'mass': 0.5, 'radius': 15}
+
+your_side
+left
+
+half
+1 
+
+time_left
+45
+
+our_score
+0
+
+their_score
+0
